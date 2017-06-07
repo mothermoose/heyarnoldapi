@@ -1,0 +1,2 @@
+class HeyArnoldStuff < ApplicationRecord
+end
